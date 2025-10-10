@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:lppom_halal_agent_management_mobile_flutter/app/core/app_colors.dart';
-import 'package:lppom_halal_agent_management_mobile_flutter/app/core/app_text_styles.dart';
+import 'package:getx_pattern_architecture/app/core/app_colors.dart';
+import 'package:getx_pattern_architecture/app/core/app_text_styles.dart';
 import 'custom_text_form_field.dart';
 
 enum UnitPosition { prefix, suffix }

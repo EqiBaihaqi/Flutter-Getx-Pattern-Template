@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:getx_pattern_architecture/app/core/app_colors.dart';
 import 'package:intl/intl.dart';
-import 'package:lppom_halal_agent_management_mobile_flutter/app/core/app_colors.dart';
 
 String formatDateTime(DateTime dateTime) {
   return DateFormat('EEEE, dd/MM/yyyy HH:mm', 'id_ID').format(dateTime);

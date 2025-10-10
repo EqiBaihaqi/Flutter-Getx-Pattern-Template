@@ -5,7 +5,7 @@ import 'package:flutter/material.dart';
 import 'package:fpdart/fpdart.dart';
 
 import 'package:get/get.dart';
-import 'package:lppom_halal_agent_management_mobile_flutter/app/commons/widgets/custom_dialog_notif.dart';
+import 'package:getx_pattern_architecture/app/commons/widgets/custom_dialog_notif.dart';
 
 import '../../constant/constant_asset.dart';
 import '../widgets/custom_dialog_api_status.dart';

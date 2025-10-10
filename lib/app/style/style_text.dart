@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:getx_pattern_architecture/app/style/style_color.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:lppom_halal_agent_management_mobile_flutter/app/style/style_color.dart';
 
 // h1
 TextStyle h1Reguler({Color colorText = CustomColor.netral10}) =>

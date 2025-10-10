@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:lppom_halal_agent_management_mobile_flutter/app/style/style_color.dart';
+import 'package:getx_pattern_architecture/app/style/style_color.dart';
 import '../../core/app_colors.dart';
 import '../../core/app_text_styles.dart';
 import 'custom_button.dart';
@@ -63,7 +63,8 @@ class CustomDialogNotif extends StatelessWidget {
           bodyWidget ??
               Text(
                 body ?? ' this is the default body text',
-                style: textStyleBody ??
+                style:
+                    textStyleBody ??
                     AppTextStyles.regular14.copyWith(
                       color: AppColors.colorNetral7,
                     ),
